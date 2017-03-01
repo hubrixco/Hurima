@@ -14,5 +14,5 @@ Our initial focus areas:
  - Improving granularity and audit capabilites of rights/permissions management in open-source CMS and blog platforms
  - Building an API that allows rights and permissions to be managed across several domains / applications / platforms etc.
  
- More information at https://www.hubrix.co/
+ More information at https://www.hubrix.co/hurima/
  
