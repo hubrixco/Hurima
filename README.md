@@ -1,4 +1,4 @@
-# HuRiMa
+# Hurima
 ## Hubrix Rights Manager
 
 A RESTful API written in node.js to provide function-based access control (FBAC) to new applications as well as a number of existing ones.
@@ -16,10 +16,8 @@ Our initial focus areas:
  
  More information at https://www.hubrix.co/hurima/
  
- ## Hey, why is there no source code here?
+ ## Updates & Beta News
  
-31 Oct 2017 update: **Hurima 1.0 is in development now.** Our initial release will be followed by a **closed Beta test** (limited to 100 users). You can sign up for the Beta here: https://www.hubrix.co/hurima-beta-signup/
+05 Feb 2018 update: **Hurima 1.0 is in development now.** Our **closed Beta test** (limited to 50 users) begins 02 April 2018. You can sign up for the Beta at https://hbr.li/hbeta/ now **through 01 March 2018**. More details, conditions and perks here: https://www.hubrix.co/2018/01/hurima-beta-open/
 
-27 Nov 2017 update: **We have 64 open slots remaining for the Hurima Beta.** We're presently aiming for a start date of 03 April, 2018 for the Beta but that may change depending on development progress. Please visit our Web site (link above) to sign up.
-
- Hurima _will_ be an open source project, but our policy is to only post working, tested code on GitHub. Thanks for understanding.
+Hurima _will_ be an open source project, but our policy is to only post working, tested code on GitHub. Thanks for understanding.
